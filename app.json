@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "smsSender",
+    "slug": "smsSender",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "smsSender"
+}
